@@ -1,2 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.filefossil.io/index.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/use-cases.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/pricing.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/blog.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/contact.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/privacy.html</loc><lastmod>2025-07-30</lastmod></url><url><loc>https://www.filefossil.io/terms.html</loc><lastmod>2025-07-30</lastmod></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.filefossil.io/index.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/use-cases.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/pricing.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/blog.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/contact.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/privacy.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.filefossil.io/terms.html</loc>
+    <lastmod>2025-07-30</lastmod>
+  </url>
+</urlset>
